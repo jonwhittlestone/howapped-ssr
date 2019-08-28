@@ -31,7 +31,7 @@
       </ul>
 
       <br />
-      <h4 class="title is-4">Building to last</h4>
+      <h4 class="title is-4">Performant and Secure - Building systems to last</h4>
 
       <p>As a generalist, I've <strong>observed</strong> technologies come and go, thrive and flourish and I'm dedicated to <strong>act</strong>, architecting with the most appropriate stack for the job.</p>
     </div>
